@@ -1,0 +1,55 @@
+* {
+    font-family: "メイリオ", Meiryo, sans-serif;
+    color: #444;
+}
+.clear{
+    clear: both;
+}
+.wrap{
+    width: 960px;
+    margin: 0 auto;
+}
+.section{
+    margin: 30px 0;
+}
+button{
+    background-color: cornflowerblue;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    color: #fff;
+}
+button:hover{
+    cursor: pointer;
+}
+#fruit{
+margin-bottom: 20px;
+}
+#fruit li{
+    list-style: decimal;
+    width: 100px;
+    height: 100px;
+    margin: 5px 20px;
+    text-align: center;
+    border-radius: 5px;
+    line-height: 100px;
+    float: left;
+}
+#fruit li:first-child{
+    background-color:plum;
+}
+#fruit li:nth-child(2){
+    background-color:palevioletred;
+}
+#fruit li:nth-child(3){
+    background-color:coral;
+}
+#fruit li:last-child{
+    background-color: lightpink;
+}
+#fruit li p{
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
