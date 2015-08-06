@@ -58,10 +58,10 @@ h1{
 #button:hover{
     cursor: pointer;
 }
-#dom-text{
+#dom-text,#msg{
     color: dodgerblue;
 }
-#button{
+#button,#button02{
     border:none;
     background-color: #ff5151;
     border-bottom: 2px solid #a31515;
