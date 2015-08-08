@@ -50,7 +50,7 @@ h1{
     color: #fff;
     border-radius: 5px;
 }
-#result,#result02{
+#result,#result02,#result03{
     border:2px dotted coral;
     padding: 15px;
     color: #666;
@@ -61,7 +61,7 @@ h1{
 #dom-text,#msg{
     color: dodgerblue;
 }
-#button,#button02{
+#button,#button02,#button03{
     border:none;
     background-color: #ff5151;
     border-bottom: 2px solid #a31515;
